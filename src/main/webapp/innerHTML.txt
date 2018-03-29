@@ -1,0 +1,14 @@
+<table  id=customers>
+  <tbody>
+    <tr><th>Activity Name</th> <th>Location</th> <th>Time</th></tr>
+    
+   <tr><td>AJAXLecture</td> <td>Lab 104</td> <td>9:00 AM</td> </tr>
+   
+<tr><td>JSP  Lecture</td> <td>Lab 125</td> <td>12:00 AM</td> </tr>
+<tr><td>JSP  Lecture</td> <td>Lab 119</td> <td>9:00 AM</td> </tr>
+<tr><td>JSF  Lecture</td> <td>Lab 112</td> <td>12:00 AM</td> </tr> 
+<tr><td>JSF  Lecture</td> <td>Lab 100</td> <td>12:00 AM</td> </tr>
+<tr><td>JSF  Lecture</td> <td>Lab 107</td> <td>12:00 AM</td> </tr> 
+<tr><td>JSF  Lecture</td> <td>Lab 11109</td> <td>12:00 AM</td> </tr>     
+</tbody>
+</table>
