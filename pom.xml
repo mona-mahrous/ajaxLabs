@@ -12,8 +12,9 @@
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <tomcat.version>8.5.23</tomcat.version>
     </properties>
-    
+     
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
